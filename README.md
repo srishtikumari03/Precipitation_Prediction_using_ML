@@ -4,13 +4,13 @@
 
 This project aims to create models that can predict whether precipitation will occur or not in LA using common machine learning techniques. 
 
- ## ** TECHNOLOGIES USED **
+ ## **TECHNOLOGIES USED**
  
-* ● Python, Pandas, Matplotlib, Scikit-learn & Seaborn *
+*● Python, Pandas, Matplotlib, Scikit-learn & Seaborn*
 
-## ** METHODOLOGY **
+## **METHODOLOGY**
 
-#### ** Data importing and exploration **
+#### **Data importing and exploration**
 
 - We will use dataset from [here](https://drive.google.com/file/d/1xaspu6UgMI0mBZsOmkiVMIkBQP8V1Jvg/view).
 - We will use pandas framework to import the data and perform further analysis
@@ -19,7 +19,7 @@ on it.
 on it.
 - Scaled Data and selected required features
 
-#### ** Training model using different techniques **
+#### **Training model using different techniques**
 
 - Split data into test and train datasets. 
 - We can used logistic regression classifier,SVM, Gradient Boost Classifier, Random Forest, MLP on training dataset. 
@@ -27,7 +27,7 @@ on it.
 - Tuned hyperparameter.
 - Visualised using confusion matrix using sklearn. 
 
-#### ** Model Comparison**
+#### **Model Comparison**
 
 - Compared models based on accuracy and ROC_AUC score.
 
