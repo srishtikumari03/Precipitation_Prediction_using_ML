@@ -22,7 +22,7 @@ on it.
 #### **Training model using different techniques**
 
 - Split data into test and train datasets. 
-- We can used logistic regression classifier,SVM, Gradient Boost Classifier, Random Forest, MLP on training dataset. 
+- We used logistic regression classifier,SVM, Gradient Boost Classifier, Random Forest, MLP on training dataset. 
 - Calculated accuracy and ROC_AUC on the test dataset and visualize it. 
 - Tuned hyperparameter.
 - Visualised using confusion matrix using sklearn. 
