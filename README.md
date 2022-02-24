@@ -15,16 +15,14 @@ This project aims to create models that can predict whether precipitation will o
 - We will use dataset from [here](https://drive.google.com/file/d/1xaspu6UgMI0mBZsOmkiVMIkBQP8V1Jvg/view).
 - We will use pandas framework to import the data and perform further analysis
 on it.
-- We will use pandas framework to import the data and perform further analysis
-on it.
 - Scaled Data and selected required features
 
 #### **Training model using different techniques**
 
-- Split data into test and train datasets. 
+- Splitted data into test and train datasets. 
 - We used logistic regression classifier,SVM, Gradient Boost Classifier, Random Forest, MLP on training dataset. 
 - Calculated accuracy and ROC_AUC on the test dataset and visualize it. 
-- Tuned hyperparameter.
+- Tuned hyperparameters.
 - Visualised using confusion matrix using sklearn. 
 
 #### **Model Comparison**
